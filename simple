@@ -1,0 +1,35 @@
+*WINDOWS COMPUTERS ONLY!!!*
+You can copy and paste this but I do reccomend adding more, editing its text, ect. to get a grip on this type of prank.
+*save as .VBS file! in notepad*
+
+x=msgbox("A virus is infecting your computer, 0+48, Windows Defender")
+x=msgbox("Virus breaching firewall, 1+48, Virus Database")
+x=msgbox("Deleting System32!, 0+16, Windows Systtttttttttttteemmem33333332")
+
+===========================================================================================================================================
+
+x=msgbox("message here", 0+16, "title")
+
+First Number
+0 - OK
+1 - Ok and Cancel 
+2 - Abort, Retry, and Ignore
+3 - Yes, No, and Cancel
+4 - Yes and No
+5 - Retry and Cancel
+
+Second Number
+0 - No Icon
+16 - "X" Icon
+32 - "?" Icon
+48 - "!" Icon
+64 - "i" Icon
+
+===========================================================================================================================================
+
+x=Msgbox defines the message box so when it pops up it shows a box with a message.
+("") defines the message shown in the message box. As well as adding a name at the top.
+0-5 and 0-64 define the buttons to press and the icon that appears on the message box
+
+if i did anything wrong please correct me. If im missing anything goto Issues and describe what im missing and which file it is.
+*THE VBSCRIPT GUIDE IS NOT MINE IT RIGHTFULLY BELONGS TO NextTimeTech! PLEASE SUBSCRIBE TO THIS GUY*
